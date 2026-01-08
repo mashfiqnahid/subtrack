@@ -2,6 +2,8 @@
 
 A modern, clean subscription tracking application built with React, TypeScript, and Tailwind CSS. Track all your recurring payments in one place and visualize your spending patterns.
 
+🔗 **[Live Demo](https://subtrack.mashfiqnahid.workers.dev/)**
+
 ## 🚀 Features
 
 - **Dashboard Overview**: View your total monthly spend, yearly spend, and highest expense at a glance
