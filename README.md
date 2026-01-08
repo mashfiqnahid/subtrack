@@ -57,3 +57,5 @@ yarn preview
 
 Built with ❤️ using React, TypeScript, and Tailwind CSS
 
+Developed By <a href="https://github.com/mashfiqnahid">Mashfiqur Rahman</a>
+

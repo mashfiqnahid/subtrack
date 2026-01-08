@@ -74,7 +74,7 @@ function App() {
         <footer className="bg-white border-t border-gray-200 mt-12">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
             <p className="text-center text-gray-600 text-sm">
-              Built with React, TypeScript, and Tailwind CSS • SubTrack © 2026
+              Built with React, TypeScript, and Tailwind CSS • SubTrack © 2026 • Developed By <a href="https://github.com/mashfiqnahid">Mashfiqur Rahman</a>
             </p>
           </div>
         </footer>
